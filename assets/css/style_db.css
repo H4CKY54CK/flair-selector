@@ -1,8 +1,8 @@
 body {
-  background: url('../images/main.png') repeat top; 
+  background: url('./images/main.png') repeat top; 
 }
 body#back_white_pur {
-  background: url('../images/main_white_pur.png') repeat top !important; 
+  background: url('./images/main_white_pur.png') repeat top !important; 
 }
 @font-face {
   font-family: "RussoOne";
