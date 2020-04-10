@@ -131,6 +131,7 @@
 }
 #footer_up-flair i {
     font-size: 20px;
+    position: fixed;
 }
 
 #flair_tuto {
